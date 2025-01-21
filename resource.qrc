@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/win.png</file>
+        <file>images/overbig.png</file>
+        <file>images/back.png</file>
+        <file>styles/style.qss</file>
+        <file>images/icon3.ico</file>
+        <file>fonts/HYWenHei.ttf</file>
+    </qresource>
+</RCC>

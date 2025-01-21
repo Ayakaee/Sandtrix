@@ -1,0 +1,103 @@
+/* 设置按钮的样式 */
+MenuButton {
+    background-color: #ede5d8;
+    color: #3b4255;
+    font-size: 18px;
+    border-radius: 15px;
+    padding: 10px 10px;
+    font-family: "SDK_SC_Web";
+    min-width: 120px;
+}
+
+MenuButton:hover {
+    background-color: #45a049;
+    color: white;
+    font-size: 20px;
+    
+}
+
+Menubutton:pressed {
+    color: #3b4255; /* 按下时文字颜色 */
+}
+
+Modebutton:pressed {
+    color: white; /* 按下时文字颜色 */
+}
+
+ModeButton {
+    background-color: #f3f3f3;
+    color: #3b4255;
+    font-size: 18px;
+    border-radius: 15px;
+    padding: 10px 10px;
+    font-family: "SDK_SC_Web";
+    min-width: 200px;
+    /* background-image: url(:/images/circle.png);
+    border: none; 
+    background-repeat: no-repeat;
+    background-position: center; 
+    background-size: 50px, 50px; */
+}
+ModeButton:hover {
+    /* background-color: #c7fb00; */
+    background-color: #ffb400;
+    color: black;
+    font-size: 20px;
+}
+
+GameButton {
+    background-color: #f3f3f3;
+    color: #3b4255;
+    font-size: 18px;
+    border-radius: 15px;
+    padding: 10px 10px;
+    font-family: "SDK_SC_Web";
+    min-width: 120px;
+}
+GameButton:hover {
+    background-color: #c7fb00;
+    /* background-color: #ffb400; */
+    color: black;
+    font-size: 20px;
+}
+
+GameLabel {
+    color: #3b4255;
+    font-size: 20px;
+    font-family: "SDK_SC_Web";
+    min-width: 120px;
+}
+QSpinBox {
+    color: #3b4255;
+    font-size: 20px;
+    font-family: "SDK_SC_Web";
+    min-width: 200px;
+    min-height: 40px;
+    /* border-radius: 5px; */
+}
+SettingButton {
+    background-color: #f3f3f3;
+    color: #3b4255;
+    font-size: 18px;
+    border-radius: 15px;
+    padding: 10px 10px;
+    font-family: "SDK_SC_Web";
+    min-width: 80px;
+}
+SettingButton:hover {
+    background-color: #c7fb00;
+    /* background-color: #ffb400; */
+    color: black;
+    font-size: 20px;
+}
+#helpButton {
+    background-color: #f3f3f3;
+    color: #3b4255;
+    font-size: 16px;
+    font-family: "SDK_SC_Web";
+}
+#helpButton:hover {
+    background-color: #c7fb00;
+    color: black;
+    font-size: 16px;
+}
