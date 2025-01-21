@@ -1,0 +1,21 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "D:/SoftwareInstall/Qt/6.8.1/mingw_64/include",
+                "D:/SoftwareInstall/Qt/6.8.1/mingw_64/include/QtWidgets",
+                "D:/SoftwareInstall/Qt/6.8.1/mingw_64/include/QtCore",
+                "D:/SoftwareInstall/Qt/6.8.1/mingw_64/include/QtGui",
+                "D:/Code/C++/Qtest/sandtrix/src"
+            ],
+            "defines": [],
+            "compilerPath": "D:/SoftwareInstall/Qt/Tools/mingw1310_64/bin/g++.exe",
+            "cStandardVersion": "c11",
+            "cppStandardVersion": "c++17",
+            "intelliSenseMode": "gcc-x64"
+        }
+    ],
+    "version": 4
+}
